@@ -1,0 +1,55 @@
+{
+  "cartProducts": [
+    {
+      "name": "My Christmas pack",
+      "defaultQuantity": 50,
+      "price": 71.20,
+      "contectPack": [
+        {
+          "name": "Cardboard box",
+          "description": "container"
+        },
+        {
+          "name": " Unisex short Sleeve T-Shirt",
+          "description": "Green, Small"
+        },
+        {
+          "name": "Basic bottle",
+          "description": "Blue"
+        }
+      ],
+      "isPack": true
+    },
+    {
+      "name": "Basic T-Shirt",
+      "defaultQuantity": 10,
+      "price": 13.50,
+      "contectPack": [],
+      "isPack": false
+    },
+    {
+      "name": "Woman bottle",
+      "defaultQuantity": 20,
+      "price": 36.50,
+      "contectPack": [],
+      "isPack": false
+    }
+  ],
+  "recommendedProducts": [
+    {
+      "name": "Dell Inspiron 5559",
+      "price": 220,
+      "minimum": 1
+    },
+    {
+      "name": "Asus Zenbook Duo",
+      "price": 450,
+      "minimum": 1
+    },
+    {
+      "name": "Macbook Pro 2022",
+      "price": 10000,
+      "minimum": 1
+    }
+  ]
+}
