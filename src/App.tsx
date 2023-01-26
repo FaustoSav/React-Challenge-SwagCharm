@@ -2,7 +2,7 @@ import { ThemeProvider } from "@mui/material";
 import Container from "@mui/material/Container";
 import { Footer } from "./templates/Footer";
 import { Header } from "./templates/Header";
-import Main from "./templates/Main";
+import Main from "./templates/MainContent";
 
 function App() {
   return (

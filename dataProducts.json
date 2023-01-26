@@ -2,9 +2,9 @@
   "cartProducts": [
     {
       "name": "My Christmas pack",
-      "defaultQuantity": 50,
+      "quantity": 50,
       "price": 71.20,
-      "contectPack": [
+      "contentPack": [
         {
           "name": "Cardboard box",
           "description": "container"
@@ -22,16 +22,16 @@
     },
     {
       "name": "Basic T-Shirt",
-      "defaultQuantity": 10,
+      "quantity": 10,
       "price": 13.50,
-      "contectPack": [],
+      "contentPack": [],
       "isPack": false
     },
     {
       "name": "Woman bottle",
-      "defaultQuantity": 20,
+      "quantity": 20,
       "price": 36.50,
-      "contectPack": [],
+      "contentPack": [],
       "isPack": false
     }
   ],
